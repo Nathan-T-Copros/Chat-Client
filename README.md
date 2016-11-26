@@ -1,0 +1,1 @@
+Program written during a lab session in System Programming with Dr. Wittman. Consists in a Chat Client where someone host a server and other people can join the client if they're connected to the same network.
